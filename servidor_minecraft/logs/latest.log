@@ -225,3 +225,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10May2025 19:35:40.414] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
 [10May2025 19:36:17.973] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Itz_Jusebg_FpF[/127.26.125.93:54795] logged in with entity id 248 at (24.15901899934702, 93.0, 148.48096506230996)
 [10May2025 19:36:18.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF joined the game
+[10May2025 20:10:36.974] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/13334, l='ServerLevel[world]', x=2980.52, y=76.00, z=-5479.05] died, message: 'Nitwit hit the ground too hard'
+[10May2025 20:26:10.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3304ms or 66 ticks behind
+[10May2025 20:28:30.092] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=39, y=73, z=137} BlockPos{x=39, y=71, z=138}
+[10May2025 20:28:30.150] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=39, y=73, z=137} BlockPos{x=39, y=71, z=138}
