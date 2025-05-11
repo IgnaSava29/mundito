@@ -2997,7 +2997,8 @@
       "biomeswevegone:tropical_rainforest": "2025-04-24 00:16:48 +0000",
       "biomeswevegone:baobab_savanna": "2025-04-24 02:06:58 +0000",
       "biomeswevegone:crimson_tundra": "2025-05-02 22:59:05 +0000",
-      "biomeswevegone:rainbow_beach": "2025-04-24 00:24:58 +0000"
+      "biomeswevegone:rainbow_beach": "2025-04-24 00:24:58 +0000",
+      "biomeswevegone:bayou": "2025-05-11 03:38:53 +0000"
     },
     "done": false
   },
@@ -12818,6 +12819,54 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2025-05-11 02:07:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-05-11 03:32:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-05-11 03:32:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-05-11 03:14:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-05-11 03:17:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-05-11 03:16:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-05-11 03:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-05-11 03:32:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-05-11 03:32:53 +0000"
     },
     "done": true
   },

@@ -4026,7 +4026,8 @@
       "biomeswevegone:tropical_rainforest": "2025-04-24 00:16:51 +0000",
       "biomeswevegone:baobab_savanna": "2025-04-24 20:52:38 +0000",
       "biomeswevegone:crimson_tundra": "2025-05-09 03:16:34 +0000",
-      "biomeswevegone:rainbow_beach": "2025-04-23 23:18:52 +0000"
+      "biomeswevegone:rainbow_beach": "2025-04-23 23:18:52 +0000",
+      "biomeswevegone:bayou": "2025-05-11 03:37:18 +0000"
     },
     "done": false
   },
@@ -11548,12 +11549,6 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_flute": {
-    "criteria": {
-      "bestiary": "2025-05-11 03:05:34 +0000"
-    },
-    "done": true
-  },
   "iceandfire:iceandfire/dragon_horn": {
     "criteria": {
       "bestiary": "2025-05-11 03:03:18 +0000"
@@ -11563,6 +11558,36 @@
   "iceandfire:iceandfire/dragon_staff": {
     "criteria": {
       "bestiary": "2025-05-11 03:04:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-05-11 03:05:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-05-11 03:14:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-11 03:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-11 03:30:43 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/stripped_oak_post": {
+    "criteria": {
+      "has_item": "2025-05-11 03:30:43 +0000"
     },
     "done": true
   },

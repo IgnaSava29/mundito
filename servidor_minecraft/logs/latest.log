@@ -247,3 +247,85 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [11May2025 03:16:01.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [Dragon Commander]
 [11May2025 03:16:21.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [An Ear-Shattering Roar]
 [11May2025 03:17:21.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [The Song of the Dragons]
+[11May2025 03:18:29.248] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6df1d489[id=<null>,name=Teffqyy,properties={},legacy=false] (/127.17.114.153:37675) lost connection: Disconnected
+[11May2025 03:20:49.534] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@367980ca[id=<null>,name=Teffqyy,properties={},legacy=false] (/127.17.114.153:43475) lost connection: Disconnected
+[11May2025 03:21:54.427] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@34145d39[id=<null>,name=Teffqyy,properties={},legacy=false] (/127.17.114.153:59713) lost connection: Disconnected
+[11May2025 03:23:25.482] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@33a34166[id=<null>,name=Teffqyy,properties={},legacy=false] (/127.17.114.153:39861) lost connection: Disconnected
+[11May2025 03:24:58.581] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@72e81760[id=<null>,name=Teffqyy,properties={},legacy=false] (/127.17.114.153:49585): Took too long to log in
+[11May2025 03:24:58.583] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@72e81760[id=<null>,name=Teffqyy,properties={},legacy=false] (/127.17.114.153:49585) lost connection: Took too long to log in
+[11May2025 03:24:58.629] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11May2025 03:26:08.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> zzz
+[11May2025 03:26:08.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
+[11May2025 03:26:08.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
+[11May2025 03:27:33.010] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Teffqyy[/127.17.114.153:55889] logged in with entity id 12865 at (814.8833086897903, 67.0, -4817.300000011921)
+[11May2025 03:27:33.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy joined the game
+[11May2025 03:29:20.185] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Teffqyy lost connection: Disconnected
+[11May2025 03:29:20.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy left the game
+[11May2025 03:32:46.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 was kicked for floating a vehicle too long!
+[11May2025 03:32:46.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 lost connection: Disconnected
+[11May2025 03:32:46.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 left the game
+[11May2025 03:32:46.238] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11May2025 03:33:00.058] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: buenxs14[/127.3.199.38:44007] logged in with entity id 16151 at (751.6026677406471, 169.1330382823944, -4768.149393566234)
+[11May2025 03:33:00.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 joined the game
+[11May2025 03:34:08.799] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=871, y=62, z=-4796} BlockPos{x=871, y=61, z=-4797}
+[11May2025 03:34:08.850] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=871, y=61, z=-4796} BlockPos{x=871, y=61, z=-4797}
+[11May2025 03:38:23.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 2.4047914646657773,0.0,10.201112179907796
+[11May2025 03:38:23.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 2.8164548070408273,0.0,11.899274989407786
+[11May2025 03:38:23.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 3.2354906552664033,0.0,13.595667215974572
+[11May2025 03:38:23.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 3.6614859051687745,0.0,15.290368526184466
+[11May2025 03:38:23.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 4.093866685854891,0.0,16.983507987348275
+[11May2025 03:38:23.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 4.5321077367416365,0.0,18.67520459010575
+[11May2025 03:38:23.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 2.974829776671868,0.0,11.86446308629911
+[11May2025 03:38:23.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 3.4227984307110546,0.0,13.553764653757753
+[11May2025 03:38:23.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 3.874787985895182,0.0,15.242076234266278
+[11May2025 03:39:13.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 10.06248864990198,0.0,-0.21113407946540974
+[11May2025 03:39:13.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 10.410720078268696,0.0,-0.6246359921779003
+[11May2025 03:39:13.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 10.775805489140112,0.0,-1.1873840280304648
+[11May2025 03:39:13.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 11.15786032549181,0.0,-1.8811392941988743
+[11May2025 03:39:13.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 11.556262355165018,0.0,-2.6900178234900523
+[11May2025 03:39:13.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 11.964895362357765,0.0,-3.601692345710944
+[11May2025 03:39:13.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 12.368896750635258,0.0,-4.60747568692932
+[11May2025 03:39:13.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 12.754954681563504,0.0,-5.698766327251178
+[11May2025 03:39:13.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 13.116017543091857,0.0,-6.866600376396491
+[11May2025 03:39:13.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 4.019738804698363,0.0,-9.430718698331475
+[11May2025 03:39:13.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 4.2937273496677335,0.0,-10.78020362031748
+[11May2025 03:39:13.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 4.5438301611579845,0.0,-12.176618968212097
+[11May2025 03:39:13.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 4.772865755719749,0.0,-13.614426951759015
+[11May2025 03:39:13.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 4.983320064950476,0.0,-15.088743239950418
+[11May2025 03:39:13.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 5.177385680519137,0.0,-16.595259852838353
+[11May2025 03:39:13.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 5.356996468278112,0.0,-18.130177152109354
+[11May2025 03:39:13.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 5.522632446788975,0.0,-19.690190420682484
+[11May2025 03:39:13.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 5.672066534060377,0.0,-21.27243757459746
+[11May2025 03:39:13.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 5.791431531906483,0.0,-22.873947015930753
+[11May2025 03:39:13.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 5.858475879558682,0.0,-24.489247372939644
+[11May2025 03:39:13.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 5.917608994187958,0.0,-25.913942287821556
+[11May2025 03:39:13.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 5.969764401291059,0.0,-27.170523202747972
+[11May2025 03:39:13.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 6.015765470355973,0.0,-28.27882756971303
+[11May2025 03:39:13.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 6.056338413271078,0.0,-29.256352021376188
+[11May2025 03:39:13.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 6.092123748922177,0.0,-30.11852858774273
+[11May2025 03:39:13.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 6.123686414966642,0.0,-30.8789683192781
+[11May2025 03:39:13.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 6.077595403679197,0.0,-31.512977112537556
+[11May2025 03:39:13.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 5.963013848984929,0.0,-32.03547381823864
+[11May2025 03:39:13.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 5.788023635005857,0.0,-32.45961686271221
+[11May2025 03:39:13.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 5.559752983537692,0.0,-32.79701197798386
+[11May2025 03:39:13.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 5.284488986204224,0.0,-33.05789541969898
+[11May2025 03:39:13.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 4.967776857817398,0.0,-33.25129556533739
+[11May2025 03:39:13.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 4.614507477841471,0.0,-33.38517544383649
+[11May2025 03:39:13.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 4.230013709674267,0.0,-33.46457332104728
+[11May2025 03:39:13.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 3.8244406278320184,0.0,-33.48564499876284
+[11May2025 03:39:13.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 3.312120260331085,0.0,-33.640885120512394
+[11May2025 03:39:13.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 2.691074122127702,0.0,-33.89594035538721
+[11May2025 03:39:13.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 1.9621228044609325,0.0,-34.2196306373653
+[11May2025 03:39:13.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! 1.1336576300921024,0.0,-34.595435038273536
+[11May2025 03:39:13.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved too quickly! -3.5113582753110677,0.0,-26.85804097441178
+[11May2025 03:39:30.187] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[11May2025 03:39:30.187] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[11May2025 03:39:30.189] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[11May2025 03:39:30.189] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[11May2025 03:39:30.189] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[11May2025 03:40:51.640] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[11May2025 03:40:52.619] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[11May2025 03:45:43.289] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Teffqyy[/127.17.114.153:54701] logged in with entity id 28561 at (814.8833086897903, 67.0, -4817.300000011921)
+[11May2025 03:45:43.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy joined the game
+[11May2025 03:47:27.001] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Teffqyy lost connection: Disconnected
+[11May2025 03:47:27.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy left the game
