@@ -1153,3 +1153,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [11May2025 02:18:46.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> ahorita te explico
 [11May2025 02:32:12.726] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Teffqyy lost connection: Disconnected
 [11May2025 02:32:12.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy left the game
+[11May2025 02:45:17.824] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 lost connection: Disconnected
+[11May2025 02:45:17.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 left the game
+[11May2025 02:49:28.246] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: buenxs14[/127.3.199.38:53705] logged in with entity id 83541 at (794.8047354636426, 73.0, -4808.666137693297)
+[11May2025 02:49:28.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 joined the game
