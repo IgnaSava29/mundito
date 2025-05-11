@@ -6472,6 +6472,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-11 02:31:39 +0000"
+    },
+    "done": false
+  },
   "valhelsia_furniture:recipes/decorations/light_blue_upholstered_mangrove_chair": {
     "criteria": {
       "has_mangrove_planks": "2025-05-11 01:26:16 +0000"
@@ -6483,6 +6489,12 @@
       "has_mangrove_planks": "2025-05-11 01:26:16 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-11 02:31:39 +0000"
+    },
+    "done": false
   },
   "valhelsia_furniture:recipes/decorations/green_mangrove_chair": {
     "criteria": {
@@ -6507,6 +6519,12 @@
       "has_mangrove_planks": "2025-05-11 01:26:16 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-11 02:31:39 +0000"
+    },
+    "done": false
   },
   "valhelsia_furniture:recipes/decorations/red_upholstered_mangrove_chair": {
     "criteria": {
@@ -6544,6 +6562,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-11 02:31:39 +0000"
+    },
+    "done": false
+  },
   "valhelsia_furniture:recipes/decorations/mangrove_chair": {
     "criteria": {
       "has_mangrove_planks": "2025-05-11 01:26:16 +0000"
@@ -6574,6 +6598,18 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-11 02:31:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-11 02:31:39 +0000"
+    },
+    "done": false
+  },
   "valhelsia_furniture:recipes/decorations/cyan_mangrove_chair": {
     "criteria": {
       "has_mangrove_planks": "2025-05-11 01:26:16 +0000"
@@ -6591,6 +6627,18 @@
       "has_mangrove_planks": "2025-05-11 01:26:16 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-11 02:31:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-11 02:31:39 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/mangrove_stairs": {
     "criteria": {
@@ -6628,17 +6676,35 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-11 02:31:39 +0000"
+    },
+    "done": false
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_mangrove_chair": {
     "criteria": {
       "has_mangrove_planks": "2025-05-11 01:26:16 +0000"
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-11 02:31:39 +0000"
+    },
+    "done": false
+  },
   "valhelsia_furniture:recipes/decorations/brown_mangrove_chair": {
     "criteria": {
       "has_mangrove_planks": "2025-05-11 01:26:16 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-11 02:31:39 +0000"
+    },
+    "done": false
   },
   "valhelsia_furniture:recipes/decorations/purple_upholstered_mangrove_chair": {
     "criteria": {
@@ -6663,6 +6729,12 @@
       "has_mangrove_planks": "2025-05-11 01:26:16 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-11 02:31:39 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/mangrove_fence": {
     "criteria": {
