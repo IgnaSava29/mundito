@@ -11591,5 +11591,29 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/building_blocks/mangrove_post": {
+    "criteria": {
+      "has_item": "2025-05-11 03:52:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-05-11 03:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-05-11 03:52:45 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/stripped_mangrove_post": {
+    "criteria": {
+      "has_item": "2025-05-11 03:52:45 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
