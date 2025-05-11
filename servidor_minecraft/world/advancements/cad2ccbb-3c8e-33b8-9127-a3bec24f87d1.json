@@ -11476,15 +11476,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_ice_spikes": {
+    "criteria": {
+      "has_item": "2025-05-10 18:54:26 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_ice": {
     "criteria": {
       "has_item": "2025-05-10 18:54:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/map": {
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
     "criteria": {
-      "has_compass": "2025-05-10 18:56:56 +0000"
+      "has_item": "2025-05-10 18:55:06 +0000"
     },
     "done": true
   },
@@ -11494,15 +11500,21 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_ice_spikes": {
+  "minecraft:recipes/misc/map": {
     "criteria": {
-      "has_item": "2025-05-10 18:54:26 +0000"
+      "has_compass": "2025-05-10 18:56:56 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
     "criteria": {
-      "has_item": "2025-05-10 18:55:06 +0000"
+      "has_sapphire_gem": "2025-05-11 00:48:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-11 00:51:47 +0000"
     },
     "done": true
   },
