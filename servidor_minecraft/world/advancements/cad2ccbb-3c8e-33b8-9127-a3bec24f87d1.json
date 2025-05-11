@@ -11506,6 +11506,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-05-11 01:03:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-05-11 01:03:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-05-11 01:09:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-05-11 01:07:44 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
     "criteria": {
       "has_sapphire_gem": "2025-05-11 00:48:02 +0000"

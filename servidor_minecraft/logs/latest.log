@@ -1026,3 +1026,25 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [11May2025 01:03:08.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has been revived
 [11May2025 01:05:26.790] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=22, y=89, z=135} BlockPos{x=21, y=89, z=135}
 [11May2025 01:05:26.844] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=22, y=89, z=134} BlockPos{x=21, y=89, z=135}
+[11May2025 01:09:07.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [Mother of Dragons]
+[11May2025 01:10:49.159] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Teffqyy[/127.17.114.153:51349] logged in with entity id 38713 at (811.5, 72.5625, -4818.5)
+[11May2025 01:10:49.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy joined the game
+[11May2025 01:13:23.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> no ya no
+[11May2025 01:13:35.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> XDDDDDDDDD
+[11May2025 01:13:38.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> ese grito
+[11May2025 01:14:02.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> si pq alejandro m dice q nadie está hablando conmigo...
+[11May2025 01:15:09.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [Flexible Schedule]
+[11May2025 01:16:06.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> juan tiens piedra?
+[11May2025 01:16:32.058] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2631, y=11, z=-7612} BlockPos{x=2631, y=11, z=-7611}
+[11May2025 01:16:33.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> 4
+[11May2025 01:16:35.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> de esos
+[11May2025 01:16:37.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> paquetes
+[11May2025 01:16:48.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> es lo mismo
+[11May2025 01:16:50.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> no?...
+[11May2025 01:17:13.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> sip
+[11May2025 01:17:14.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> duerman
+[11May2025 01:17:24.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> tXDDDD
+[11May2025 01:17:26.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> tduerman
+[11May2025 01:17:35.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> ES Q HAY FANTASMAS
+[11May2025 01:17:49.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> no m dejan hacer mi lalalava
+[11May2025 01:17:57.072] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
