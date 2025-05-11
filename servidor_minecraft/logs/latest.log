@@ -376,3 +376,24 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [11May2025 04:12:31.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
 [11May2025 04:13:44.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
 [11May2025 04:14:10.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[11May2025 04:30:12.484] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 lost connection: Disconnected
+[11May2025 04:30:12.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 left the game
+[11May2025 04:30:35.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4258ms or 85 ticks behind
+[11May2025 04:31:35.878] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF lost connection: Disconnected
+[11May2025 04:31:35.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF left the game
+[11May2025 04:32:03.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[11May2025 04:32:03.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11May2025 04:32:03.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11May2025 04:32:03.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11May2025 04:32:03.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11May2025 04:32:03.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[11May2025 04:32:03.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11May2025 04:32:04.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11May2025 04:32:04.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11May2025 04:32:04.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[11May2025 04:32:04.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11May2025 04:32:04.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11May2025 04:32:04.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11May2025 04:32:04.171] [Server thread/INFO] [Framework/]: Unloading server configs...
+[11May2025 04:32:04.179] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[11May2025 04:32:04.183] [Server thread/INFO] [Framework/]: Finished unloading server configs
