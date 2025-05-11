@@ -1100,3 +1100,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [11May2025 01:47:12.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> rompi d casualidad
 [11May2025 01:47:20.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> lava
 [11May2025 01:48:32.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> yap
+[11May2025 01:49:20.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> YA NO PRENDR
+[11May2025 01:49:24.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> EL MECANISMO
+[11May2025 01:49:42.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> ..
+[11May2025 01:50:01.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> waiting
+[11May2025 01:54:22.961] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: buenxs14[/127.3.199.38:60489] logged in with entity id 70421 at (6197.433744326626, -39.0, -10029.3307886963)
+[11May2025 01:54:22.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 joined the game
+[11May2025 01:54:53.045] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 lost connection: Timed out
+[11May2025 01:54:53.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 left the game
+[11May2025 01:55:56.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> tu comienzas
+[11May2025 01:56:05.139] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@34eb7e3e[id=<null>,name=buenxs14,properties={},legacy=false] (/127.3.199.38:43635) lost connection: Disconnected
+[11May2025 01:57:07.908] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: buenxs14[/127.3.199.38:42383] logged in with entity id 71672 at (6197.433744326626, -39.0, -10029.3307886963)
+[11May2025 01:57:07.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 joined the game
+[11May2025 01:59:04.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> la orientación del observador afecta en algo?
+[11May2025 01:59:18.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> es q n m deja
