@@ -12870,5 +12870,11 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-05-12 23:33:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
