@@ -273,3 +273,25 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [14May2025 00:49:38.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> JAJAJJAJAJA
 [14May2025 00:49:52.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> dile q saque el mod
 [14May2025 00:50:30.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> 10
+[14May2025 00:52:00.751] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xfxbri_L[/127.227.214.109:34813] logged in with entity id 2602 at (808.4828732937084, 90.0, -4955.084652714884)
+[14May2025 00:52:00.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xfxbri_L joined the game
+[14May2025 00:52:17.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xfxbri_L> primero que todo muy buenas noches
+[14May2025 00:52:22.929] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2614ms or 52 ticks behind
+[14May2025 00:52:22.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF moved too quickly! 7.818336458206545,-2.6200000047683716,-5.90864250715731
+[14May2025 00:53:46.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy has fallen
+[14May2025 00:53:49.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> OK
+[14May2025 00:53:53.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy has been revived
+[14May2025 00:54:34.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> duerman
+[14May2025 00:55:23.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF moved wrongly!
+[14May2025 00:55:30.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> JAJAJAJAJAJAJJAJAJ
+[14May2025 00:55:32.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> JAHSKASHKASHKAHSAHS
+[14May2025 00:55:34.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> es el arco
+[14May2025 00:55:44.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> KJASKJASKJAKSAKSKA
+[14May2025 00:55:47.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> entiendo
+[14May2025 00:55:50.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> esvrd
+[14May2025 00:56:07.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy has fallen
+[14May2025 00:56:10.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> livia d mrd
+[14May2025 00:56:18.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy has been revived
+[14May2025 00:58:28.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF moved too quickly! -0.3136947278118214,-14.13395460561918,0.3865716622858031
+[14May2025 00:59:16.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xfxbri_L moved too quickly! 1680.7093898895785,-96.57840000152588,-5108.2776287232
+[14May2025 01:00:35.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
