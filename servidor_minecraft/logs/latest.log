@@ -500,3 +500,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [14May2025 04:47:23.465] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Teffqyy lost connection: Disconnected
 [14May2025 04:47:23.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy left the game
 [14May2025 04:51:24.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xfxbri_L has made the advancement [Need A Map?]
+[14May2025 05:03:31.278] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[14May2025 05:04:58.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF moved wrongly!
