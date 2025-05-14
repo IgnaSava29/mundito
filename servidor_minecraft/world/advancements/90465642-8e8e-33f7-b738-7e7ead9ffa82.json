@@ -6761,15 +6761,39 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/pink_acacia_table": {
+    "criteria": {
+      "has_pink_carpet": "2025-05-14 01:29:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_cherry_table": {
+    "criteria": {
+      "has_pink_carpet": "2025-05-14 01:29:35 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/baobab_bookshelf": {
     "criteria": {
       "has_baobab_planks": "2025-05-14 01:10:27 +0000"
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/pink_crimson_table": {
+    "criteria": {
+      "has_pink_carpet": "2025-05-14 01:29:35 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/baobab_slab": {
     "criteria": {
       "has_planks": "2025-05-14 01:10:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_mangrove_table": {
+    "criteria": {
+      "has_pink_carpet": "2025-05-14 01:29:35 +0000"
     },
     "done": true
   },
@@ -6803,6 +6827,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/pink_jungle_table": {
+    "criteria": {
+      "has_pink_carpet": "2025-05-14 01:29:35 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/obsidian_tower_shield": {
     "criteria": {
       "has_obsidian": "2025-05-14 01:05:42 +0000"
@@ -6815,9 +6845,27 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/pink_birch_table": {
+    "criteria": {
+      "has_pink_carpet": "2025-05-14 01:29:35 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/decorations/baobab_fence": {
     "criteria": {
       "has_planks": "2025-05-14 01:10:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_warped_table": {
+    "criteria": {
+      "has_pink_carpet": "2025-05-14 01:29:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_dark_oak_table": {
+    "criteria": {
+      "has_pink_carpet": "2025-05-14 01:29:35 +0000"
     },
     "done": true
   },
@@ -6839,6 +6887,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/pink_spruce_table": {
+    "criteria": {
+      "has_pink_carpet": "2025-05-14 01:29:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-05-14 01:21:24 +0000"
@@ -6848,6 +6902,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-05-14 01:05:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_oak_table": {
+    "criteria": {
+      "has_pink_carpet": "2025-05-14 01:29:35 +0000"
     },
     "done": true
   },

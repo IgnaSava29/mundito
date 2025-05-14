@@ -12906,5 +12906,95 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/pink_acacia_table": {
+    "criteria": {
+      "has_pink_carpet": "2025-05-14 01:29:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2025-05-14 01:28:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_cherry_table": {
+    "criteria": {
+      "has_pink_carpet": "2025-05-14 01:29:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-14 01:28:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-05-14 01:28:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_crimson_table": {
+    "criteria": {
+      "has_pink_carpet": "2025-05-14 01:29:01 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_mangrove_table": {
+    "criteria": {
+      "has_pink_carpet": "2025-05-14 01:29:01 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_jungle_table": {
+    "criteria": {
+      "has_pink_carpet": "2025-05-14 01:29:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-14 01:28:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_birch_table": {
+    "criteria": {
+      "has_pink_carpet": "2025-05-14 01:29:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-14 01:28:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_warped_table": {
+    "criteria": {
+      "has_pink_carpet": "2025-05-14 01:29:01 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/pink_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_color": "2025-05-14 01:28:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_dark_oak_table": {
+    "criteria": {
+      "has_pink_carpet": "2025-05-14 01:29:01 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_oak_table": {
+    "criteria": {
+      "has_pink_carpet": "2025-05-14 01:29:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
