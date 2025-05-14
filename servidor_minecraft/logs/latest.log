@@ -458,3 +458,20 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [14May2025 03:23:33.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xfxbri_L has made the advancement [Adventurous Eater]
 [14May2025 03:23:39.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [A Bigger Blade]
 [14May2025 03:23:56.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xfxbri_L has made the advancement [A Bigger Blade]
+[14May2025 03:25:01.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xfxbri_L has made the advancement [Take Aim, Chaps!]
+[14May2025 03:25:49.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xfxbri_L moved too quickly! 2.622140548968673,-1.7518640014090607,9.605293320451892
+[14May2025 03:27:25.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xfxbri_L moved too quickly! -9.041939034521306,0.023088109101550458,-5.018726551956206
+[14May2025 03:27:47.305] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2210ms or 44 ticks behind
+[14May2025 03:27:49.600] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Teffqyy lost connection: Disconnected
+[14May2025 03:27:49.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy left the game
+[14May2025 03:28:53.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xfxbri_L moved too quickly! -8.290565009646997,-2.024424088213692,-5.656126797422985
+[14May2025 03:32:55.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xfxbri_L has made the advancement [Who You Gonna Call?]
+[14May2025 03:33:07.335] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/51624, l='ServerLevel[world]', x=98.49, y=-20.00, z=-951.37] died: Toxic Slime was killed
+[14May2025 03:36:24.339] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=814, y=69, z=-7952} BlockPos{x=806, y=55, z=-7951}
+[14May2025 03:36:24.396] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=814, y=69, z=-7952} BlockPos{x=806, y=55, z=-7951}
+[14May2025 03:36:24.446] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=808, y=56, z=-7951} BlockPos{x=806, y=55, z=-7951}
+[14May2025 03:36:24.493] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=808, y=56, z=-7951} BlockPos{x=806, y=55, z=-7951}
+[14May2025 03:36:24.589] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=808, y=56, z=-7951} BlockPos{x=806, y=55, z=-7951}
+[14May2025 03:37:48.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xfxbri_L has reached the goal [Eye of Darkness]
+[14May2025 03:38:09.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xfxbri_L moved too quickly! 0.46036608691292713,1.1216000461578375,-10.168096804707602
+[14May2025 03:38:12.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xfxbri_L has made the advancement [Welcome To The Jungle]
