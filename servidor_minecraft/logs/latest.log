@@ -475,3 +475,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [14May2025 03:37:48.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xfxbri_L has reached the goal [Eye of Darkness]
 [14May2025 03:38:09.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xfxbri_L moved too quickly! 0.46036608691292713,1.1216000461578375,-10.168096804707602
 [14May2025 03:38:12.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xfxbri_L has made the advancement [Welcome To The Jungle]
+[14May2025 03:49:40.579] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/65958, l='ServerLevel[world]', x=-657.00, y=91.57, z=-4579.98]
+[14May2025 03:49:40.579] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/65963, l='ServerLevel[world]', x=-656.01, y=94.53, z=-4580.48]
+[14May2025 03:49:40.580] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/65964, l='ServerLevel[world]', x=-656.17, y=93.19, z=-4582.69]
