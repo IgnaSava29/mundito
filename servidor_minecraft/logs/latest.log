@@ -229,3 +229,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [16May2025 01:27:49.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF joined the game
 [16May2025 01:35:59.318] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3365ms or 67 ticks behind
 [16May2025 01:35:59.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF moved too quickly! 10.018142313008525,0.0,-0.8107873300559731
+[16May2025 01:42:58.635] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4, y=71, z=-912} BlockPos{x=41, y=56, z=-935}
+[16May2025 01:45:42.859] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/9573, l='ServerLevel[world]', x=-264.30, y=30.75, z=-908.07] died: Sanctum Cultist tried to swim in lava
