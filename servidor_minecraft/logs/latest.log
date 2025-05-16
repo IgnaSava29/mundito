@@ -294,3 +294,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [16May2025 04:11:06.395] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [16May2025 04:11:28.299] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: buenxs14[/127.3.199.38:35589] logged in with entity id 87440 at (809.4934616628497, 74.2533421201327, -7951.981954642768)
 [16May2025 04:11:28.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 joined the game
+[16May2025 04:27:27.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 moved too quickly! -0.21464388316474015,-11.842011517166327,-0.11982104745948163
+[16May2025 04:27:28.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 was kicked for floating too long!
+[16May2025 04:27:28.720] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 lost connection: Flying is not enabled on this server
+[16May2025 04:27:28.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 left the game
+[16May2025 04:27:43.997] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: buenxs14[/127.3.199.38:57437] logged in with entity id 92065 at (812.349311303097, 176.42427602974595, -7958.28044845765)
+[16May2025 04:27:44.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 joined the game
+[16May2025 04:28:39.833] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=814, y=59, z=-7944} BlockPos{x=814, y=58, z=-7944}
+[16May2025 04:28:40.084] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=814, y=57, z=-7942} BlockPos{x=814, y=55, z=-7942}
+[16May2025 04:28:46.834] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=803, y=54, z=-7928} BlockPos{x=802, y=53, z=-7929}
+[16May2025 04:28:50.185] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=810, y=56, z=-7942} BlockPos{x=812, y=55, z=-7943}
+[16May2025 04:36:27.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> q fue causam
+[16May2025 04:36:34.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> entro de la na
