@@ -287,3 +287,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [16May2025 03:50:27.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
 [16May2025 03:50:27.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
 [16May2025 03:50:27.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
+[16May2025 04:11:04.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 moved too quickly! -0.03638429606985483,-12.925099910319702,0.30310445800023444
+[16May2025 04:11:06.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 was kicked for floating too long!
+[16May2025 04:11:06.323] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 lost connection: Disconnected
+[16May2025 04:11:06.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 left the game
+[16May2025 04:11:06.395] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16May2025 04:11:28.299] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: buenxs14[/127.3.199.38:35589] logged in with entity id 87440 at (809.4934616628497, 74.2533421201327, -7951.981954642768)
+[16May2025 04:11:28.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 joined the game
