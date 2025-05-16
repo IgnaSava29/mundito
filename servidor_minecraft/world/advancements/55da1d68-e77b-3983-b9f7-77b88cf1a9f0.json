@@ -13044,5 +13044,11 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2025-05-16 02:44:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
