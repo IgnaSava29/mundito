@@ -306,3 +306,21 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [16May2025 04:28:50.185] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=810, y=56, z=-7942} BlockPos{x=812, y=55, z=-7943}
 [16May2025 04:36:27.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> q fue causam
 [16May2025 04:36:34.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> entro de la na
+[16May2025 05:04:14.473] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[16May2025 05:07:04.097] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/107353, l='ServerLevel[world]', x=3098.81, y=78.00, z=-5536.14] died, message: 'Villager hit the ground too hard'
+[16May2025 05:07:53.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> zz
+[16May2025 05:07:54.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[16May2025 05:07:54.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[16May2025 05:07:54.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[16May2025 05:07:54.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[16May2025 05:07:55.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[16May2025 05:08:40.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 was kicked for floating too long!
+[16May2025 05:08:40.514] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 lost connection: Flying is not enabled on this server
+[16May2025 05:08:40.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 left the game
+[16May2025 05:08:54.842] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: buenxs14[/127.3.199.38:51991] logged in with entity id 108905 at (820.4367309143336, 64.16659142092402, -7959.130015040048)
+[16May2025 05:08:54.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 joined the game
+[16May2025 05:10:40.061] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 lost connection: Timed out
+[16May2025 05:10:40.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 left the game
+[16May2025 05:10:57.790] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: buenxs14[/127.3.199.38:57033] logged in with entity id 109617 at (817.0124999880791, 227.0, -7955.949999988079)
+[16May2025 05:10:57.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 joined the game
+[16May2025 05:12:22.323] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/107887, l='ServerLevel[world]', x=3094.31, y=78.00, z=-5537.25] died, message: 'Villager hit the ground too hard'
