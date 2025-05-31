@@ -12408,105 +12408,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "mowziesmobs:kill_frostmaw": {
     "criteria": {
-      "log_spam_fixer": "2025-05-18 22:05:54 +0000"
+      "frostmaw": "2025-05-18 21:18:31 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-18 22:05:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-18 22:05:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-18 22:05:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-18 22:05:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-18 22:05:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-18 22:05:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-18 22:05:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-18 22:05:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-18 22:05:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-18 22:05:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-18 22:05:54 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
     "criteria": {
       "has_deepslate_diamond_ore": "2025-05-18 21:30:06 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_coliseum": {
-    "criteria": {
-      "location0": "2025-05-18 21:58:32 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_fishing_hut": {
-    "criteria": {
-      "location0": "2025-05-18 21:44:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/packed_ice": {
-    "criteria": {
-      "has_ice": "2025-05-18 21:36:01 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_frostmaw": {
-    "criteria": {
-      "frostmaw": "2025-05-18 21:18:31 +0000"
     },
     "done": true
   },
@@ -12525,6 +12435,24 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
     "criteria": {
       "has_deepslate_iron_ore": "2025-05-18 21:30:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-05-18 21:36:01 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-05-18 21:44:38 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_coliseum": {
+    "criteria": {
+      "location0": "2025-05-18 21:58:32 +0000"
     },
     "done": true
   },
