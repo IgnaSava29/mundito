@@ -248,3 +248,22 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [06Jun2025 00:26:50.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of buenxs14) moved wrongly! 1.0
 [06Jun2025 00:27:35.561] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [06Jun2025 00:27:58.580] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[06Jun2025 00:29:08.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [Jaws]
+[06Jun2025 00:29:25.954] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 00:31:08.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved too quickly! 9.401233708703103,-0.03337468953206724,5.039450240305371
+[06Jun2025 00:31:08.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved too quickly! -9.852297921867148,0.020197219014221446,-3.9825782671250636
+[06Jun2025 00:32:04.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved too quickly! -3.0523439269802566,0.0,10.198022730352818
+[06Jun2025 00:32:04.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 moved too quickly! -1.4388041123584117,-10.432815015520703,-0.0389322002629342
+[06Jun2025 00:32:04.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved too quickly! -3.4752939439625834,0.0,12.267290262373194
+[06Jun2025 00:32:04.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved too quickly! -3.7415193157767135,0.0,14.32453196323894
+[06Jun2025 00:32:04.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved too quickly! -3.8159066022591333,0.0,16.337932811972053
+[06Jun2025 00:32:04.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved too quickly! -3.694942965861287,0.0,18.288374167508493
+[06Jun2025 00:32:04.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved too quickly! -3.3836280971082715,0.0,20.161735252703807
+[06Jun2025 00:32:04.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved too quickly! -2.8916575783453027,0.0,21.948366129970594
+[06Jun2025 00:32:05.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved too quickly! 0.2876033714891264,0.0,15.500537744926703
+[06Jun2025 00:32:05.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved too quickly! 1.1110175679880285,0.0,17.08187313461201
+[06Jun2025 00:32:05.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved too quickly! 2.081217783667853,0.0,18.552711405557062
+[06Jun2025 00:32:05.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved too quickly! 3.1818547678715277,0.0,19.922904028266572
+[06Jun2025 00:32:18.018] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1351, y=17, z=-489} but found not block entity block Block{minecraft:water}[level=8] at location
+[06Jun2025 00:32:18.019] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=1351, y=17, z=-489}
+[06Jun2025 00:33:29.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved too quickly! -8.769019309995883,0.0,6.3523321034734295

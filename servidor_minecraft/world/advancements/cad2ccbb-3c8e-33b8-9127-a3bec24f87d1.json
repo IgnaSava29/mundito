@@ -108,6 +108,7 @@
       "minecraft:cold_ocean": "2025-04-23 23:02:07 +0000",
       "minecraft:forest": "2025-04-23 04:08:32 +0000",
       "minecraft:lush_caves": "2025-04-23 22:37:05 +0000",
+      "minecraft:deep_cold_ocean": "2025-06-06 00:25:12 +0000",
       "minecraft:ice_spikes": "2025-05-18 21:14:17 +0000",
       "minecraft:frozen_ocean": "2025-05-09 18:20:18 +0000",
       "minecraft:desert": "2025-04-24 00:35:02 +0000",
@@ -12522,6 +12523,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2025-06-05 02:03:11 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2025-06-06 00:29:08 +0000"
     },
     "done": true
   },
