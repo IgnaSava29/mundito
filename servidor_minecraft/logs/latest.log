@@ -9615,3 +9615,21 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [06Jun2025 01:50:27.514] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1679, y=11, z=-327} BlockPos{x=1679, y=10, z=-328}
 [06Jun2025 01:51:56.498] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF lost connection: Timed out
 [06Jun2025 01:51:56.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF left the game
+[06Jun2025 01:52:12.142] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 lost connection: Disconnected
+[06Jun2025 01:52:12.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 left the game
+[06Jun2025 01:52:30.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[06Jun2025 01:52:30.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Jun2025 01:52:30.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Jun2025 01:52:30.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Jun2025 01:52:30.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Jun2025 01:52:31.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Jun2025 01:52:31.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[06Jun2025 01:52:31.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Jun2025 01:52:31.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Jun2025 01:52:31.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Jun2025 01:52:31.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[06Jun2025 01:52:31.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Jun2025 01:52:31.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06Jun2025 01:52:31.803] [Server thread/INFO] [Framework/]: Unloading server configs...
+[06Jun2025 01:52:31.808] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[06Jun2025 01:52:31.811] [Server thread/INFO] [Framework/]: Finished unloading server configs
