@@ -12526,9 +12526,129 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2025-06-06 01:02:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2025-06-06 01:02:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_crimson_chair": {
+    "criteria": {
+      "has_orange_wool": "2025-06-06 01:02:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_warped_table": {
+    "criteria": {
+      "has_white_carpet": "2025-06-06 01:04:56 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_mangrove_table": {
+    "criteria": {
+      "has_white_carpet": "2025-06-06 01:04:56 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_typhon": {
     "criteria": {
       "location0": "2025-06-06 00:29:08 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_crimson_stool": {
+    "criteria": {
+      "has_orange_wool": "2025-06-06 01:02:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_crimson_chair": {
+    "criteria": {
+      "has_orange_wool": "2025-06-06 01:02:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_jungle_stool": {
+    "criteria": {
+      "has_orange_wool": "2025-06-06 01:02:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/orange_sleeping_bag": {
+    "criteria": {
+      "has_orange_wool": "2025-06-06 01:02:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_dark_oak_table": {
+    "criteria": {
+      "has_white_carpet": "2025-06-06 01:04:56 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_jungle_table": {
+    "criteria": {
+      "has_white_carpet": "2025-06-06 01:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2025-06-06 01:02:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_curtain": {
+    "criteria": {
+      "has_item": "2025-06-06 01:02:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_birch_table": {
+    "criteria": {
+      "has_white_carpet": "2025-06-06 01:04:56 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_spruce_table": {
+    "criteria": {
+      "has_white_carpet": "2025-06-06 01:04:56 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_oak_table": {
+    "criteria": {
+      "has_white_carpet": "2025-06-06 01:04:56 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_cherry_table": {
+    "criteria": {
+      "has_white_carpet": "2025-06-06 01:04:56 +0000"
+    },
+    "done": true
+  },
+  "stellarity:adventure/beam_me_up": {
+    "criteria": {
+      "criteria": "2025-06-06 01:01:17 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_crimson_table": {
+    "criteria": {
+      "has_white_carpet": "2025-06-06 01:04:56 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_acacia_table": {
+    "criteria": {
+      "has_white_carpet": "2025-06-06 01:04:56 +0000"
     },
     "done": true
   },
