@@ -236,3 +236,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10Jun2025 23:06:07.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [Wingin' It]
 [10Jun2025 23:07:00.303] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1676, y=14, z=-293} BlockPos{x=1677, y=14, z=-293}
 [10Jun2025 23:09:22.918] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1696, y=12, z=-288} BlockPos{x=1696, y=12, z=-290}
+[10Jun2025 23:17:58.918] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jun2025 23:18:03.357] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: buenxs14[/127.177.194.69:51863] logged in with entity id 7309 at (2526.409557935499, 6.0, -139.41593037048406)
+[10Jun2025 23:18:03.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 joined the game
+[10Jun2025 23:22:13.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [Blunt-force Trauma]
+[10Jun2025 23:24:03.632] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jun2025 23:24:06.225] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
