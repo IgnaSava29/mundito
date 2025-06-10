@@ -235,3 +235,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10Jun2025 23:02:50.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF joined the game
 [10Jun2025 23:06:07.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [Wingin' It]
 [10Jun2025 23:07:00.303] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1676, y=14, z=-293} BlockPos{x=1677, y=14, z=-293}
+[10Jun2025 23:09:22.918] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1696, y=12, z=-288} BlockPos{x=1696, y=12, z=-290}
