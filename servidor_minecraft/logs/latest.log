@@ -242,3 +242,27 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10Jun2025 23:22:13.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [Blunt-force Trauma]
 [10Jun2025 23:24:03.632] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [10Jun2025 23:24:06.225] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jun2025 23:38:48.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved too quickly! 10.176915457857604,0.0,-0.6435712638847804
+[10Jun2025 23:38:48.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved too quickly! 11.205034655786676,0.0,-0.8961568955737107
+[10Jun2025 23:38:48.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved too quickly! 12.231144075063867,0.0,-1.1593553250866648
+[10Jun2025 23:38:48.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved too quickly! 13.257241461516287,0.0,-1.424212123686459
+[10Jun2025 23:38:48.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved too quickly! 14.283332409444029,0.0,-1.6899562825203134
+[10Jun2025 23:38:48.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved too quickly! 15.30941991224563,0.0,-1.9561752501233514
+[10Jun2025 23:38:48.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved too quickly! 16.335505571629028,0.0,-2.222648278432132
+[10Jun2025 23:38:48.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved wrongly! 0.25862080697561396
+[10Jun2025 23:38:48.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved wrongly! 1.0
+[10Jun2025 23:38:48.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved wrongly! 1.0
+[10Jun2025 23:38:54.606] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3554ms or 71 ticks behind
+[10Jun2025 23:38:54.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved too quickly! -9.919899298480004,0.0,2.96533385424641
+[10Jun2025 23:38:54.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved too quickly! -10.206229143349674,0.0,3.686063199031196
+[10Jun2025 23:38:54.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved too quickly! -10.490832771568876,0.0,4.408186341416183
+[10Jun2025 23:38:54.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved too quickly! -10.774512735675444,0.0,5.131055277107691
+[10Jun2025 23:38:54.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved too quickly! -11.057698465531075,0.0,5.854323271928024
+[10Jun2025 23:38:54.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved too quickly! -11.340619740493139,0.0,6.577804795331815
+[10Jun2025 23:38:54.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved too quickly! -11.622205097574806,0.0,7.301864553537939
+[10Jun2025 23:40:13.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF moved wrongly!
+[10Jun2025 23:42:06.974] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-207, y=63, z=-75} BlockPos{x=-204, y=62, z=-76}
+[10Jun2025 23:44:35.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved wrongly! 0.9876022224605094
+[10Jun2025 23:44:35.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved wrongly! 1.0
+[10Jun2025 23:44:35.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved wrongly! 1.0
+[10Jun2025 23:44:35.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Itz_Jusebg_FpF) moved wrongly! 1.0
